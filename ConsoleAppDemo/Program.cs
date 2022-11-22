@@ -2,7 +2,7 @@
 using ClassDemo;
 
 
-namespace dotnetconsole
+namespace ConsoleAppDemo
 {
     class Program
     {
